@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="txtHeader">Calculate Your Tip!</string>
+    <string name="billAmount">Enter the amount of your bill</string>
+    <string-array name="choices">
+        <item>5%</item>
+        <item>10%</item>
+        <item>15%</item>
+        <item>20%</item>
+        <item>25%</item>
+    </string-array>
+    <string name="calBtn">Calculate!</string>
+    <string name="total"></string>
+    <item name="btnCharges" type="id" />
+</resources>
